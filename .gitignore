@@ -68,3 +68,6 @@ python/psutil/build/lib.macosx-10.9-intel-2.7/_psutil_osx.so
 
 js/src/build-ane-ios-x86/*
 !js/src/build-ane-ios-x86/build.sh
+
+js/src/build-ane-ios-armv7/*
+!js/src/build-ane-ios-armv7/build.sh
