@@ -77,3 +77,8 @@ js/src/build-ane-android-armv7/*
 
 js/src/build-ane-android-x86/*
 !js/src/build-ane-android-x86/build.sh
+
+include
+lib
+
+python/psutil/_psutil_osx.so
