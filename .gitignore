@@ -60,7 +60,8 @@ js/src/build-linux/*
 ./lib
 js/src/autom4te.cache
 
-js/src/build-ane-android-armv7/*js/src/build-ane-android-x86/*js/src/build-ane-ios-armv7/*js/src/build-ane-ios-x86/*js/src/build-ane-osx-x86/*js/src/build-ane-win-x86/*
-
+js/src/build-ane-osx-x86/*
 !js/src/build-ane-osx-x86/build.sh
-!js/src/build-ane-android-armv7/build.sh!js/src/build-ane-android-x86/build.sh!js/src/build-ane-ios-armv7/build.sh!js/src/build-ane-ios-x86/build.sh!js/src/build-ane-osx-x86/build.sh!js/src/build-ane-win-x86/build.sh
+python/psutil/build/lib.macosx-10.9-intel-2.7/_psutil_posix.so
+
+python/psutil/build/lib.macosx-10.9-intel-2.7/_psutil_osx.so
