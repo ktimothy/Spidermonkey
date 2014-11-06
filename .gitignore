@@ -71,3 +71,9 @@ js/src/build-ane-ios-x86/*
 
 js/src/build-ane-ios-armv7/*
 !js/src/build-ane-ios-armv7/build.sh
+js/src/build-ane-android-armv7/*
+!js/src/build-ane-android-armv7/build.sh
+
+
+js/src/build-ane-android-x86/*
+!js/src/build-ane-android-x86/build.sh
