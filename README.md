@@ -4,7 +4,7 @@
 
 ## About this repository
 
- - Adopted to work with https://github.com/PeyTy/SpiderMonkey-AIR-ANE
+ - Adopted to work with https://github.com/ktimothy/JSSpiderANE
  - Engine version is 28
  - This is NOT the official SpiderMonkey standalone project. Official repo is [here](https://developer.mozilla.org/en-US/docs/SpiderMonkey)
  - Only contains the SpiderMonkey source code and needed files to compile it
